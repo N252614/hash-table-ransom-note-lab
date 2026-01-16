@@ -87,3 +87,21 @@ Once your lab is complete and all tests are passing:
 
 - Push your code to GitHub.
 - Submit the link to your repo through **Canvas using CodeGrade**.
+
+
+# Hash Table – Ransom Note Lab
+
+## Function
+`can_construct(ransomNote: str, magazine: str) -> bool`
+
+Returns `True` if the ransom note can be constructed, otherwise `False`.
+
+## How to Run
+Run the test file from the project root:
+
+```bash
+python test_ransom_note.py
+```
+## Testing
+
+All provided tests pass successfully.
